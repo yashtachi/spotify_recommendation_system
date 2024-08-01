@@ -10,8 +10,8 @@ The Spotify Recommendation System is designed to recommend songs based on a give
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/spotify-recommendation-system.git
-    cd spotify-recommendation-system
+    git clone https://github.com/yourusername/spotify_recommendation_system.git
+    cd spotify_recommendation_system
     ```
 2. Install the required dependencies:
     ```bash
