@@ -29,6 +29,8 @@ The Spotify Recommendation System is designed to recommend songs based on a give
     ```bash
     python recommend.py --url <spotify_url> --method <api_or_ml>
     ```
+## NOTE
+set up a virtual environment to avoid version collision between packages like numpy,streamlit and protobouf... etc
 
 ## API Reference
 This project uses the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) to fetch song and artist data.
